@@ -1,5 +1,5 @@
 # social-ajax-without-framework
-//login logout account
+# //login logout account
 //create post
 //comment post
 //upload post with video , multi image 
